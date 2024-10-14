@@ -37,5 +37,5 @@ Ghost es una plataforma de publicación diseñada para crear publicaciones rápi
 
 ## Enlaces
 
-- [GUI](https://ghost.org/docs/)
+- [GUI](https://www.figma.com/design/XsMblQkEhgyXan5DnBGJXA/GUI-Ghost?node-id=0-1&t=jfsgoKw6uA6Oa09b-1)
 - [MLU (Entidad Relación)](https://mludatabase.com/)

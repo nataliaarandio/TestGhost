@@ -13,7 +13,7 @@
 
 Ghost es una plataforma de publicación diseñada para crear publicaciones rápidas, eficientes y con personalización completa, ideal para blogs, newsletters, y membresías de pago.
 
-## Lista de funcionalidades
+## [Lista de funcionalidades](https://github.com/nataliaarandio/TestGhost/wiki/LISTA-DE-FUNCIONALIDADES)
 
 1. **Crear usuario**: Permite la creación y edición de usuarios dentro de la plataforma. Esta sección es útil para realizar pruebas o administrar quién tiene acceso a ciertas áreas del sistema, asignando roles y permisos según sea necesario.
 

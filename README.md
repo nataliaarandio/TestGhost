@@ -36,6 +36,6 @@ Ghost es una plataforma de publicación diseñada para crear publicaciones rápi
 10. **Navegación**: Esta funcionalidad ofrece un espacio dedicado para editar y personalizar los menús de navegación de la página web. Permite agregar, eliminar o reorganizar enlaces y secciones, ayudando a mejorar la experiencia del usuario al facilitar el acceso a diferentes partes del sitio de forma intuitiva.
 
 ## Enlaces
-
+- [Escenario de pruebas](https://uniandes-my.sharepoint.com/:x:/g/personal/a_arandio_uniandes_edu_co/EXbDYyWbnARIj3LY_E7lp8QBt7fewX_pfunl6P2e_3NOsg?e=tPpjA7)
 - [GUI](https://www.figma.com/design/XsMblQkEhgyXan5DnBGJXA/GUI-Ghost?node-id=0-1&t=jfsgoKw6uA6Oa09b-1)
-- [MLU (Entidad Relación)](https://mludatabase.com/)
+- [MLU (Entidad Relación)](https://uniandes-my.sharepoint.com/:i:/g/personal/ma_gomeza1_uniandes_edu_co/EdgQOi4wH31HqSBni3tT4JgBQe8oR65CqghFjNtVeu19JA?e=L5zohd)
